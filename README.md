@@ -46,5 +46,3 @@ This project performs comprehensive market analysis for Farm Made Foods by scrap
   - Logging
   - TensorFlow
   - PyTorch
-
-## Project Structure 
